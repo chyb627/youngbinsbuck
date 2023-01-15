@@ -3,3 +3,5 @@ yarn.lock
 .DS_STORE
 .prettierrc
 .vscode
+.idea
+.DS_Store
